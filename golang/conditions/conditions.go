@@ -3,7 +3,6 @@ package main
 import (
 	"fmt"
 )
-
 func main(){
 	/* y := 10
 	if (y > 0) {
@@ -37,5 +36,4 @@ func main(){
 		}
 		fmt.Printf("Hi\n")
 	}
-
 }

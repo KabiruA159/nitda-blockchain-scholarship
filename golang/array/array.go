@@ -27,5 +27,4 @@ func main(){
 	fmt.Printf("%s\n", s1)
 	fmt.Printf("%s\n", s2)
 	fmt.Printf("%s\n", arr)
-
 }
